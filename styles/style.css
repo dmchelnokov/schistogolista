@@ -3,7 +3,30 @@
   }
   
   body {
+  min-width: 850px;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   background-color: black;
+  max-width: 40%;
+  }
+
+  .menu-link {
+  position: relative;
+  display: flex;
+  gap: 35px;
+  padding-bottom: 3%;
+  bottom: 7px;
+  left: -15px;
+  width: 6px;
+  height: 6px;
+  float: right;
+  }
+
+  .link1 {
+  float: left;
+  width:86px;
+  display: block; 
+  width: 100%; 
+  max-width: 86px;
+  margin-right: 80%;
   }
