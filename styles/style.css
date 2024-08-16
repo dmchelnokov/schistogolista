@@ -31,10 +31,9 @@
     .link1 {
     float: left;
     width:86px;
-    display: block; 
-    width: 100%; 
     max-width: 86px;
     margin-right: 80%;
+    display: block; 
     }
   
     .logopic {
