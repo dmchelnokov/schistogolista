@@ -1,0 +1,20 @@
+  @font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Best Font Ever';
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Best Font Ever';
+    font-style: italic;
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Best Font Ever';
+    font-weight: bold;
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Best Font Ever';
+    font-style: italic;
+    font-weight: bold;
+}
