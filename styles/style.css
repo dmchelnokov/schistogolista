@@ -1,26 +1,41 @@
-
-  .body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 18px;
-  background-color: black;
-  }
-
-  .menu-link {
-  position: relative;
-  display: flex;
-  gap: 35px;
-  padding-bottom: 3%;
-  bottom: 7px;
-  left: -15px;
-  width: 6px;
-  height: 6px;
-  float: right;
-  }
-
-  .link1 {
-  float: left;
-  width:86px;
-  display: block;
-  max-width: 86px;
-  margin-right: 80%;
-  }
+* {
+    box-sizing: border-box;
+    }
+    
+    body {
+    min-width: 850px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: black;
+    max-width: 40%;
+    }
+  
+    .header {
+    padding: 50px;
+    text-align: right;
+    }
+    
+    .menu-link {
+    position: relative;
+    display: flex;
+    justify-content: right;
+    gap: 35px;
+    padding-bottom: 3%;
+    }
+  
+    .link1 {
+    float: left;
+    width:86px;
+    display: block; 
+    width: 100%; 
+    max-width: 86px;
+    margin-right: 80%;
+    }
+  
+    .logopic {
+    display: inline-block;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 6%;
+    margin-top: -5%;
+    }
