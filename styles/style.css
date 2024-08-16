@@ -1,8 +1,4 @@
-* {
-  box-sizing: border-box;
-  }
-  
-  body {
+body {
   min-width: 850px;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
