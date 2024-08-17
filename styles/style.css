@@ -120,3 +120,62 @@
         padding-top: 1%;
         display: inline-block;
         }
+
+        .tre {
+
+            background-color: yellow;
+            min-width: 850px;
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            font-size: 18px;
+            line-height: 32px;
+            color: black;
+            max-width: 40%;
+            padding-left: 5%;
+            padding-right: 5%;
+            display: inline-block; 
+            padding-top: 2%;
+            padding-bottom: 5%;
+          
+            }
+          
+            .text8 {
+          
+            background-color: black;
+            min-width: 850px;
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            font-size: 18px;
+            line-height: 32px;
+            color: rgb(242, 235, 235);
+            max-width: 40%;
+            padding-left: 5%;
+            padding-right: 5%;
+            display: inline-block; 
+            padding-top: 5%;
+            padding-bottom: 1%;
+          
+            }
+          
+            .gre {
+            float: right;
+            font-size: 32px;
+            line-height: 32px;
+            font-family: Inter, Arial, sans-serif;
+            }
+
+            .egr {
+            float: left;
+            font-size: 32px;
+            line-height: 32px;
+            font-family: Inter, Arial, sans-serif;
+            }
+          
+            .rge {
+            font-family: Inter, Arial, sans-serif;
+            font-size: 18px;
+            color: #ffffff;
+            line-height: 32px;
+            padding-top: 10%;
+            padding-bottom: 1%;
+            }
