@@ -88,7 +88,7 @@
         max-width: 40%;
         padding-left: 5%;
         padding-right: 5%;
-        display: inline-block; 
+        display: inline-block;
         padding-top: 5%;
         padding-bottom: 1%;
       
@@ -113,10 +113,9 @@
         }
       
         .bca {
-      
-        font-family: Inter, Arial, sans-serif; 
-        font-size: 18px; 
-        color: #000000; 
+        font-family: Inter, Arial, sans-serif;
+        font-size: 18px;
+        color: #000000;
         line-height: 32px;
         padding-top: 1%;
         display: inline-block;
