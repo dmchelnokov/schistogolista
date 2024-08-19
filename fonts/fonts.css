@@ -1,0 +1,20 @@
+  @font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Inter, EB Garamond';
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Inter, EB Garamond';
+    font-style: italic;
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Inter, EB Garamond';
+    font-weight: bold;
+}
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/fonts.css);
+    font-family: 'Inter, EB Garamond';
+    font-style: italic;
+    font-weight: bold;
+}
